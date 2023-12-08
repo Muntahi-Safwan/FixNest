@@ -1,0 +1,40 @@
+[
+    {
+        "service_name": "Screen Replacement for Smartphones",
+        "service_description": "Professional screen replacement service for cracked or shattered smartphone screens.",
+        "price": 99.99,
+        "service_img": "https://example.com/images/screen_replacement.jpg",
+        "service_provider": "Muntahi Safwan"
+    },
+    {
+        "service_name": "Laptop Battery Replacement",
+        "service_description": "Replace your laptop's worn-out battery with a brand-new one for extended battery life.",
+        "price": 69.99,
+        "service_img": "https://example.com/images/laptop_battery.jpg",
+        "service_provider": "Muntahi Safwan"
+    },
+    {
+        "service_name": "Game Console Repair",
+        "service_description": "Expert repair for your gaming console, fixing issues like the red ring of death and disc drive problems.",
+        "price": 79.99,
+        "service_img": "https://example.com/images/game_console_repair.jpg"
+    },
+    {
+        "service_name": "Data Recovery Services",
+        "service_description": "Recover lost data from damaged or corrupted devices, ensuring you don't lose precious files.",
+        "price": 129.99,
+        "service_img": "https://example.com/images/data_recovery.jpg"
+    },
+    {
+        "service_name": "Printer Maintenance",
+        "service_description": "Keep your printer in top shape with our maintenance service, preventing paper jams and ink problems.",
+        "price": 49.99,
+        "service_img": "https://example.com/images/printer_maintenance.jpg"
+    },
+    {
+        "service_name": "Smartphone Camera Repair",
+        "service_description": "Repair or replace your smartphone's camera for improved photo and video quality.",
+        "price": 89.99,
+        "service_img": "https://example.com/images/smartphone_camera.jpg"
+    }
+]
